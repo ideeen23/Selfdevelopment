@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://back-end-mementostore.herokuapp.com/) here!!
 
 1. Git Clone 
 ```
-Git Clone https://github.com/ideeen23/Selfdevelopment.git
+Git Clone https://github.com/ideeen23/memento-store/
 ```
 
 2. Backend setting
